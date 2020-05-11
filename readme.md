@@ -1,5 +1,5 @@
 ## Getting started
-- `git clone https://github.com/aqkhan/vanilla-js-workflow-tailwind.git`
+- `git clone https://github.com/aqkhan/vanilla-js-workflow-tailwind.git && cd vanilla-js-workflow-tailwind.git`
 - `yarn` or `npm install`
 
 ### HTML & CSS edits
